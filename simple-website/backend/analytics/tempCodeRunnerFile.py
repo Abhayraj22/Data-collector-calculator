@@ -1,0 +1,1 @@
+ cursor = connection.cursor(dictionary=True)
